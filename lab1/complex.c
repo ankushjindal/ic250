@@ -12,7 +12,7 @@
 *       @todo:    To update: recttopolar, writepolar - using
 *             complex in different and ambigious way (polar form)
 *       @Date: 2014/08/20 02:32
-*   Fork this at 
+*   Fork this at http://bit.ly/1n76M03
 ***************************************************************************/
 
 #include <stdio.h>
